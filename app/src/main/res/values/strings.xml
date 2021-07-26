@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rcm Calculator</string>
+
+    <string name="admob_app_id">ca-app-pub-9976157034334780~9555421351</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
