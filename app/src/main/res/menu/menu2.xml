@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/camera"
+        android:title=""
+        android:icon="@drawable/camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/rate"
+        android:title="Rate"
+        android:icon="@drawable/rate" />
+    <item
+        android:id="@+id/more"
+        android:title="More Apps" />
+    <item
+        android:id="@+id/privacy"
+        android:title="Privacy" />
+    <item
+        android:id="@+id/about"
+        android:title="About Us" />
+
+</menu>
